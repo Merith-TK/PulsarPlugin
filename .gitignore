@@ -1,0 +1,15 @@
+# JetBrains IDEs
+/.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Output files
+*.json
+plugins.sha1
